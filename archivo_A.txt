@@ -1,1 +1,2 @@
 Inserto una línea en el archivo_A.txt
+Añado una segunda línea al archivo_A.txt en la rama master
