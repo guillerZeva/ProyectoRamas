@@ -1,2 +1,4 @@
 Inserto una línea en el archivo_A.txt
 Añado una segunda línea al archivo_A.txt en la rama master
+Línea de mas para las fusiones
+Resuelvo el conflicto en esta primera línea del archivo_a.txt
